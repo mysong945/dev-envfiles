@@ -62,3 +62,9 @@ plugins=(
 source $ZSH/oh-my-zsh.sh
 source ~/.zsh/base.zsh  # 自定义别名和函数
 ```
+
+## conda初始化zsh
+```
+# 如果使用conda，可以初始化zsh支持
+conda init zsh
+```
